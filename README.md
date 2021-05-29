@@ -1,2 +1,2 @@
-# 马悦的github pages
+# github pages
 上传hexo blog
